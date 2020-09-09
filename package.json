@@ -7,24 +7,24 @@
     "url": "https://github.com/suthagar23/openmrs-owa-sysadmin"
   },
   "dependencies": {
-    "del": "^2.2.0",
-    "gulp": "^3.9.0",
-    "gulp-load-plugins": "^1.2.0",
-    "gulp-zip": "^3.0.2",
-    "main-bower-files": "^2.11.1",
-    "openmrs-contrib-uicommons": "^0.4.3",
-    "wiredep": "^3.0.0"
+    "del": "2.2.2",
+    "gulp": "3.9.1",
+    "gulp-load-plugins": "1.6.0",
+    "gulp-zip": "3.2.0",
+    "main-bower-files": "2.13.3",
+    "openmrs-contrib-uicommons": "0.4.3",
+    "wiredep": "3.0.1"
   },
   "devDependencies": {
-    "gulp-livereload": "^3.8.1",
-    "gulp-util": "^3.0.7",
-    "gulp-watch": "^4.3.5",
-    "jasmine-core": "^2.4.1",
-    "karma": "^0.13.21",
-    "karma-chrome-launcher": "^0.2.2",
-    "karma-firefox-launcher": "^0.1.7",
-    "karma-jasmine": "^0.3.7",
-    "orchestrator": "^0.3.7"
+    "gulp-livereload": "3.8.1",
+    "gulp-util": "3.0.8",
+    "gulp-watch": "4.3.11",
+    "jasmine-core": "2.99.1",
+    "karma": "0.13.22",
+    "karma-chrome-launcher": "0.2.3",
+    "karma-firefox-launcher": "0.1.7",
+    "karma-jasmine": "0.3.8",
+    "orchestrator": "0.3.8"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
