@@ -13,7 +13,7 @@
     "gulp-zip": "^3.0.2",
     "main-bower-files": "^2.11.1",
     "openmrs-contrib-uicommons": "^0.4.3",
-    "wiredep": "^3.0.0"
+    "wiredep": "^4.0.0"
   },
   "devDependencies": {
     "gulp-livereload": "^3.8.1",
